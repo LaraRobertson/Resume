@@ -1,0 +1,10 @@
+* {font-family:Verdana, Geneva, sans-serif;font-size:14px;color:#111;}
+h1 {font-size:24px;color:#093;}
+h2 {font-size:20px;color:#000;margin-bottom:5px;}
+h3 {font-size:16px;color:#000;margin-bottom:5px;}
+a {color:#009933;}
+ul {margin-top:0;}
+p {margin: 0;}
+.detail {margin-left:20px;}
+/* google */
+.form input{background:url(images/microphone.png) 100% 100% no-repeat;}
